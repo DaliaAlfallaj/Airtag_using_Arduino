@@ -4,7 +4,9 @@ An RFID or radio frequency identification system consists of two main components
 
 # What the hardware that I use on the project?
 -  RFID.
-- Liquid Crystal Displays (LCD) screen
+- Liquid Crystal Displays (LCD) screen.
+- light led.
+
 
 
 
