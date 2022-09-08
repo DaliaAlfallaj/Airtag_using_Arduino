@@ -12,6 +12,8 @@ An RFID or radio frequency identification system consists of two main components
 
 https://user-images.githubusercontent.com/98902283/189122610-2eca0de0-4884-40b5-af32-421acd7ce221.mp4
 
+# reference:
+[RFID](https://lastminuteengineers.com/how-rfid-works-rc522-arduino-tutorial/)
 
 
 
